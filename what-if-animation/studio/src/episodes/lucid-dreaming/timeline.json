@@ -1,0 +1,563 @@
+{
+ "slug": "lucid-dreaming",
+ "title": "WHAT IF YOU COULD CONTROL YOUR DREAMS?",
+ "fps": 30,
+ "total": 4754,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 161,
+   "t0": 0,
+   "t1": 161,
+   "line": "Imagine going to sleep tonight, and suddenly realizing you're dreaming."
+  },
+  {
+   "shot": "S2",
+   "a": 161,
+   "b": 331,
+   "t0": 0,
+   "t1": 170,
+   "line": "And in that moment, you become the director. You fly over cities,"
+  },
+  {
+   "shot": "S3",
+   "a": 331,
+   "b": 487,
+   "t0": 0,
+   "t1": 156,
+   "line": "talk to people who are long gone, and build entire worlds just by thinking"
+  },
+  {
+   "shot": "S4",
+   "a": 487,
+   "b": 644,
+   "t0": 0,
+   "t1": 157,
+   "line": "of them. What if this were possible every single night?"
+  },
+  {
+   "shot": "S5",
+   "a": 644,
+   "b": 791,
+   "t0": 0,
+   "t1": 147,
+   "line": "It's closer than you think. It's called lucid dreaming."
+  },
+  {
+   "shot": "S6",
+   "a": 791,
+   "b": 951,
+   "t0": 0,
+   "t1": 160,
+   "line": "Knowing you're inside a dream while you're still asleep. Studies suggest that more"
+  },
+  {
+   "shot": "S7",
+   "a": 951,
+   "b": 1079,
+   "t0": 0,
+   "t1": 128,
+   "line": "than half of all people have experienced it at least once."
+  },
+  {
+   "shot": "S8",
+   "a": 1079,
+   "b": 1245,
+   "t0": 0,
+   "t1": 166,
+   "line": "In normal dreams, the part of your brain responsible for logic is mostly switched off,"
+  },
+  {
+   "shot": "S9",
+   "a": 1245,
+   "b": 1389,
+   "t0": 0,
+   "t1": 144,
+   "line": "which is why we accept even the strangest events without question."
+  },
+  {
+   "shot": "S10",
+   "a": 1389,
+   "b": 1494,
+   "t0": 0,
+   "t1": 105,
+   "line": "In a lucid dream, that part partially wakes up,"
+  },
+  {
+   "shot": "S11",
+   "a": 1494,
+   "b": 1655,
+   "t0": 0,
+   "t1": 161,
+   "line": "and your ability to make choices comes back. Now imagine controlling your dreams whenever"
+  },
+  {
+   "shot": "S12",
+   "a": 1655,
+   "b": 1768,
+   "t0": 0,
+   "t1": 113,
+   "line": "you want. First, nightmares would lose their power."
+  },
+  {
+   "shot": "S13",
+   "a": 1768,
+   "b": 1937,
+   "t0": 0,
+   "t1": 169,
+   "line": "Because you could face what scares you, or change the scene completely."
+  },
+  {
+   "shot": "S14",
+   "a": 1937,
+   "b": 2080,
+   "t0": 0,
+   "t1": 143,
+   "line": "Second, you could practice your skills. A speech in front of a crowd,"
+  },
+  {
+   "shot": "S15",
+   "a": 2080,
+   "b": 2245,
+   "t0": 0,
+   "t1": 165,
+   "line": "an athletic move, even playing an instrument. Research suggests the brain treats"
+  },
+  {
+   "shot": "S16",
+   "a": 2245,
+   "b": 2399,
+   "t0": 0,
+   "t1": 154,
+   "line": "this kind of rehearsal as somewhat real practice. And third,"
+  },
+  {
+   "shot": "S17",
+   "a": 2399,
+   "b": 2556,
+   "t0": 0,
+   "t1": 157,
+   "line": "you'd have unlimited space for creativity. How many artists and writers have drawn"
+  },
+  {
+   "shot": "S18",
+   "a": 2556,
+   "b": 2668,
+   "t0": 0,
+   "t1": 112,
+   "line": "their ideas from dreams? Is this just fantasy?"
+  },
+  {
+   "shot": "S19",
+   "a": 2668,
+   "b": 2832,
+   "t0": 0,
+   "t1": 164,
+   "line": "In 2021, researchers managed to hold a real conversation with"
+  },
+  {
+   "shot": "S20",
+   "a": 2832,
+   "b": 2970,
+   "t0": 0,
+   "t1": 138,
+   "line": "people during their lucid dreams. Simple questions were asked,"
+  },
+  {
+   "shot": "S21",
+   "a": 2970,
+   "b": 3097,
+   "t0": 0,
+   "t1": 127,
+   "line": "and the sleepers answered with eye movements while still asleep."
+  },
+  {
+   "shot": "S22",
+   "a": 3097,
+   "b": 3266,
+   "t0": 0,
+   "t1": 169,
+   "line": "But what if this became a daily habit? This is where the trouble starts."
+  },
+  {
+   "shot": "S23",
+   "a": 3266,
+   "b": 3450,
+   "t0": 0,
+   "t1": 184,
+   "line": "Your sleep quality could suffer because your brain would be partially awake instead of fully resting."
+  },
+  {
+   "shot": "S24",
+   "a": 3450,
+   "b": 3562,
+   "t0": 0,
+   "t1": 112,
+   "line": "The line between dream and reality could blur,"
+  },
+  {
+   "shot": "S25",
+   "a": 3562,
+   "b": 3696,
+   "t0": 0,
+   "t1": 134,
+   "line": "and you might wake up each morning wondering whether last night really happened."
+  },
+  {
+   "shot": "S26",
+   "a": 3696,
+   "b": 3855,
+   "t0": 0,
+   "t1": 159,
+   "line": "And you could lose the magic of spontaneous dreams, the ones that surprise you with things you"
+  },
+  {
+   "shot": "S27",
+   "a": 3855,
+   "b": 4024,
+   "t0": 0,
+   "t1": 169,
+   "line": "never expected. So controlling your dreams could give you a superpower,"
+  },
+  {
+   "shot": "S28",
+   "a": 4024,
+   "b": 4190,
+   "t0": 0,
+   "t1": 166,
+   "line": "but it comes at a price. The best part is that getting started is simple."
+  },
+  {
+   "shot": "S29",
+   "a": 4190,
+   "b": 4323,
+   "t0": 0,
+   "t1": 133,
+   "line": "Keep a dream journal every morning, and during the day, ask yourself,"
+  },
+  {
+   "shot": "S30",
+   "a": 4323,
+   "b": 4527,
+   "t0": 0,
+   "t1": 204,
+   "line": "am I dreaming right now? Maybe tonight will be the first night you take hold of your dream."
+  },
+  {
+   "shot": "S31",
+   "a": 4527,
+   "b": 4667,
+   "t0": 0,
+   "t1": 140,
+   "line": "If you enjoyed this video, subscribe to the channel and tell us in the comments."
+  },
+  {
+   "shot": "S32",
+   "a": 4667,
+   "b": 4754,
+   "t0": 0,
+   "t1": 87,
+   "line": "What would you do if you could control your dream tonight?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 15,
+   "len": 161,
+   "first": 0,
+   "line": "Imagine going to sleep tonight, and suddenly realizing you're dreaming.",
+   "note": "Imagine going to sleep tonight, and suddenly realizing you'r"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "key": 15,
+   "len": 170,
+   "first": 161,
+   "line": "And in that moment, you become the director. You fly over cities,",
+   "note": "And in that moment, you become the director. You fly over ci"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "key": 15,
+   "len": 156,
+   "first": 331,
+   "line": "talk to people who are long gone, and build entire worlds just by thinking",
+   "note": "talk to people who are long gone, and build entire worlds ju"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "key": 15,
+   "len": 157,
+   "first": 487,
+   "line": "of them. What if this were possible every single night?",
+   "note": "of them. What if this were possible every single night?"
+  },
+  {
+   "id": "S5",
+   "size": "ots",
+   "key": 15,
+   "len": 147,
+   "first": 644,
+   "line": "It's closer than you think. It's called lucid dreaming.",
+   "note": "It's closer than you think. It's called lucid dreaming."
+  },
+  {
+   "id": "S6",
+   "size": "schematic",
+   "key": 15,
+   "len": 160,
+   "first": 791,
+   "line": "Knowing you're inside a dream while you're still asleep. Studies suggest that more",
+   "note": "Knowing you're inside a dream while you're still asleep. Stu"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 15,
+   "len": 128,
+   "first": 951,
+   "line": "than half of all people have experienced it at least once.",
+   "note": "than half of all people have experienced it at least once."
+  },
+  {
+   "id": "S8",
+   "size": "schematic",
+   "key": 15,
+   "len": 166,
+   "first": 1079,
+   "line": "In normal dreams, the part of your brain responsible for logic is mostly switched off,",
+   "note": "In normal dreams, the part of your brain responsible for log"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "key": 15,
+   "len": 144,
+   "first": 1245,
+   "line": "which is why we accept even the strangest events without question.",
+   "note": "which is why we accept even the strangest events without que"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "key": 15,
+   "len": 105,
+   "first": 1389,
+   "line": "In a lucid dream, that part partially wakes up,",
+   "note": "In a lucid dream, that part partially wakes up,"
+  },
+  {
+   "id": "S11",
+   "size": "ots",
+   "key": 15,
+   "len": 161,
+   "first": 1494,
+   "line": "and your ability to make choices comes back. Now imagine controlling your dreams whenever",
+   "note": "and your ability to make choices comes back. Now imagine con"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "key": 15,
+   "len": 113,
+   "first": 1655,
+   "line": "you want. First, nightmares would lose their power.",
+   "note": "you want. First, nightmares would lose their power."
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "key": 15,
+   "len": 169,
+   "first": 1768,
+   "line": "Because you could face what scares you, or change the scene completely.",
+   "note": "Because you could face what scares you, or change the scene "
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "key": 15,
+   "len": 143,
+   "first": 1937,
+   "line": "Second, you could practice your skills. A speech in front of a crowd,",
+   "note": "Second, you could practice your skills. A speech in front of"
+  },
+  {
+   "id": "S15",
+   "size": "schematic",
+   "key": 15,
+   "len": 165,
+   "first": 2080,
+   "line": "an athletic move, even playing an instrument. Research suggests the brain treats",
+   "note": "an athletic move, even playing an instrument. Research sugge"
+  },
+  {
+   "id": "S16",
+   "size": "schematic",
+   "key": 15,
+   "len": 154,
+   "first": 2245,
+   "line": "this kind of rehearsal as somewhat real practice. And third,",
+   "note": "this kind of rehearsal as somewhat real practice. And third,"
+  },
+  {
+   "id": "S17",
+   "size": "ots",
+   "key": 15,
+   "len": 157,
+   "first": 2399,
+   "line": "you'd have unlimited space for creativity. How many artists and writers have drawn",
+   "note": "you'd have unlimited space for creativity. How many artists "
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "key": 15,
+   "len": 112,
+   "first": 2556,
+   "line": "their ideas from dreams? Is this just fantasy?",
+   "note": "their ideas from dreams? Is this just fantasy?"
+  },
+  {
+   "id": "S19",
+   "size": "schematic",
+   "key": 15,
+   "len": 164,
+   "first": 2668,
+   "line": "In 2021, researchers managed to hold a real conversation with",
+   "note": "In 2021, researchers managed to hold a real conversation wit"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "key": 15,
+   "len": 138,
+   "first": 2832,
+   "line": "people during their lucid dreams. Simple questions were asked,",
+   "note": "people during their lucid dreams. Simple questions were aske"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "key": 15,
+   "len": 127,
+   "first": 2970,
+   "line": "and the sleepers answered with eye movements while still asleep.",
+   "note": "and the sleepers answered with eye movements while still asl"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "key": 15,
+   "len": 169,
+   "first": 3097,
+   "line": "But what if this became a daily habit? This is where the trouble starts.",
+   "note": "But what if this became a daily habit? This is where the tro"
+  },
+  {
+   "id": "S23",
+   "size": "schematic",
+   "key": 15,
+   "len": 184,
+   "first": 3266,
+   "line": "Your sleep quality could suffer because your brain would be partially awake instead of fully resting.",
+   "note": "Your sleep quality could suffer because your brain would be "
+  },
+  {
+   "id": "S24",
+   "size": "schematic",
+   "key": 15,
+   "len": 112,
+   "first": 3450,
+   "line": "The line between dream and reality could blur,",
+   "note": "The line between dream and reality could blur,"
+  },
+  {
+   "id": "S25",
+   "size": "schematic",
+   "key": 15,
+   "len": 134,
+   "first": 3562,
+   "line": "and you might wake up each morning wondering whether last night really happened.",
+   "note": "and you might wake up each morning wondering whether last ni"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "key": 15,
+   "len": 159,
+   "first": 3696,
+   "line": "And you could lose the magic of spontaneous dreams, the ones that surprise you with things you",
+   "note": "And you could lose the magic of spontaneous dreams, the ones"
+  },
+  {
+   "id": "S27",
+   "size": "close",
+   "key": 15,
+   "len": 169,
+   "first": 3855,
+   "line": "never expected. So controlling your dreams could give you a superpower,",
+   "note": "never expected. So controlling your dreams could give you a "
+  },
+  {
+   "id": "S28",
+   "size": "insert",
+   "key": 15,
+   "len": 166,
+   "first": 4024,
+   "line": "but it comes at a price. The best part is that getting started is simple.",
+   "note": "but it comes at a price. The best part is that getting start"
+  },
+  {
+   "id": "S29",
+   "size": "ots",
+   "key": 15,
+   "len": 133,
+   "first": 4190,
+   "line": "Keep a dream journal every morning, and during the day, ask yourself,",
+   "note": "Keep a dream journal every morning, and during the day, ask "
+  },
+  {
+   "id": "S30",
+   "size": "medium",
+   "key": 15,
+   "len": 204,
+   "first": 4323,
+   "line": "am I dreaming right now? Maybe tonight will be the first night you take hold of your dream.",
+   "note": "am I dreaming right now? Maybe tonight will be the first nig"
+  },
+  {
+   "id": "S31",
+   "size": "wide",
+   "key": 15,
+   "len": 140,
+   "first": 4527,
+   "line": "If you enjoyed this video, subscribe to the channel and tell us in the comments.",
+   "note": "If you enjoyed this video, subscribe to the channel and tell"
+  },
+  {
+   "id": "S32",
+   "size": "medium",
+   "key": 15,
+   "len": 87,
+   "first": 4667,
+   "line": "What would you do if you could control your dream tonight?",
+   "note": "What would you do if you could control your dream tonight?"
+  }
+ ],
+ "fx": [],
+ "audio": {
+  "voice": "lucid-dreaming/voice.wav",
+  "sfx": "lucid-dreaming/sfx.wav",
+  "voiceVol": 0.4657,
+  "sfxVol": 0.8,
+  "music": "lucid-dreaming/music.wav",
+  "musicVol": 0.175
+ }
+}

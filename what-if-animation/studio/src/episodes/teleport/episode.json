@@ -1,0 +1,198 @@
+{
+ "id": "Teleport",
+ "slug": "teleport",
+ "topic": "What if you could teleport anywhere you've seen?",
+ "title": [
+  "WHAT IF YOU COULD",
+  "TELEPORT ANYWHERE?"
+ ],
+ "accent": "ANYWHERE",
+ "power": {
+  "word": "Blink.",
+  "rule": "teleport anywhere you have seen with your own eyes",
+  "look": "cyan flash ring, camera jitter, cyan eye glint"
+ },
+ "script": [
+  {
+   "beat": "1 cold open, demo 1 (small and selfish)",
+   "text": "Locked out? Blink. In your room."
+  },
+  {
+   "beat": "1 cold open, demo 2 (useful)",
+   "text": "Late for class? Blink. In your seat."
+  },
+  {
+   "beat": "1 cold open, demo 3 (a little uncanny)",
+   "text": "Rooftop sunset? Blink. On the edge."
+  },
+  {
+   "beat": "2 the premise (title card)",
+   "text": "What if you could teleport anywhere you've seen?"
+  },
+  {
+   "beat": "4 the turn: the cost, one real fact",
+   "text": "One catch: Earth rotates at a thousand miles an hour. Teleport between latitudes, and you hit the ground at five hundred miles an hour. That's real."
+  },
+  {
+   "beat": "5-7 folded into a question",
+   "text": "So which way are you facing?"
+  }
+ ],
+ "science": [
+  {
+   "claim": "Earth rotates at a thousand miles an hour, and teleporting between latitudes slams you into the ground at five hundred miles an hour.",
+   "working": "Linear velocity from Earth's rotation is v = omega * R * cos(latitude). At the equator (lat 0), v = 1,040 mph (465 m/s). At latitude 60 degrees north, cos(60) = 0.5, so v = 520 mph (232 m/s). Conservation of momentum dictates the teleported body retains its original tangential velocity, producing a horizontal velocity delta relative to the new ground of over 500 mph (232 m/s).",
+   "source": "NASA Earth Fact Sheet; Conservation of Linear Momentum"
+  }
+ ],
+ "gaps": {
+  "pairs": {
+   "out|Blink": 0.25,
+   "Blink|In": 0.45,
+   "class|Blink": 0.25,
+   "sunset|Blink": 0.25,
+   "seen|One": 0.45,
+   "real|So": 0.5
+  }
+ },
+ "cast": ["pipHood"],
+ "shots": [
+  {"id": "S1", "size": "wide", "set": "stairwell", "key": 10, "note": "Pip outside door, checking pockets, locked out"},
+  {"id": "S2", "size": "close-up", "set": "stairwell", "key": 8, "note": "Pip blinks, cyan eye glint and teleport flash"},
+  {"id": "S3", "size": "medium", "set": "study", "key": 12, "note": "Pip sitting in desk chair with mug, smug expression"},
+  {"id": "S4", "size": "wide, over-the-shoulder", "set": "stairwell", "key": 10, "note": "Pip checks watch, late for class"},
+  {"id": "S5", "size": "macro insert", "set": "classroom", "key": 6, "note": "school desk pencil and notebook, teleport flash ring"},
+  {"id": "S6", "size": "medium", "set": "classroom", "key": 14, "note": "Pip seated at school desk, relaxed, shades on"},
+  {"id": "S7", "size": "wide", "set": "rooftop", "key": 16, "note": "dusk sunset over city skyline, Pip admiring view"},
+  {"id": "S8", "size": "extreme close-up", "set": "rooftop", "key": 6, "note": "Pip eyes glint cyan as he blinks to jump"},
+  {"id": "S9", "size": "low angle, wide", "set": "rooftop", "key": 18, "note": "Pip teleported right on the edge of the parapet"},
+  {"id": "S10", "size": "title, wide", "set": "rooftop", "key": 30, "note": "title card WHAT IF YOU COULD TELEPORT ANYWHERE?"},
+  {"id": "S11", "size": "schematic", "set": "schematic", "key": 35, "note": "science beat: rotating Earth with velocity vectors"},
+  {"id": "S12", "size": "low angle, medium", "set": "rooftop", "key": 15, "note": "the jump: Pip appears mid-air in shock, red alert sky"},
+  {"id": "S13", "size": "floor insert, high speed", "set": "rooftop", "key": 15, "note": "500 mph relative velocity blast across ground"},
+  {"id": "S14", "size": "macro insert / readout", "set": "schematic", "key": 14, "note": "readout: DELTA V = 520 MPH. THAT'S REAL."},
+  {"id": "S15", "size": "extreme close-up", "set": "rooftop", "key": 18, "note": "Pip in shock against red sky, drawstrings whipping, cliffhanger"}
+ ],
+ "edit": [
+  {"shot": "S1", "at": "f:0"},
+  {"shot": "S2", "at": "Blink", "look": "teleport"},
+  {"shot": "S3", "at": "In"},
+  {"shot": "S4", "at": "Late"},
+  {"shot": "S5", "at": "Blink", "look": "teleport"},
+  {"shot": "S6", "at": "In"},
+  {"shot": "S7", "at": "Rooftop"},
+  {"shot": "S8", "at": "Blink", "look": "teleport"},
+  {"shot": "S9", "at": "On"},
+  {"shot": "S10", "at": "What"},
+  {"shot": "S11", "at": "One"},
+  {"shot": "S12", "at": "Teleport"},
+  {"shot": "S13", "at": "hit"},
+  {"shot": "S14", "at": "That's"},
+  {"shot": "S15", "at": "So"}
+ ],
+ "fx": [
+  {"at": "S2", "kind": "flash", "color": "#22D3EE"},
+  {"at": "S5", "kind": "flash", "color": "#22D3EE"},
+  {"at": "S8", "kind": "flash", "color": "#22D3EE"},
+  {"at": "S12", "kind": "shake", "len": 8, "amp": 12},
+  {"at": "S13", "kind": "shake", "len": 16, "amp": 22},
+  {"at": "S14", "kind": "flash", "color": "#FFFFFF"}
+ ],
+ "sound": {
+  "clips": {
+   "glitch": [
+    "a short digital glitch, an electric buzz and crackle flickering like an unstable hologram",
+    1.5
+   ],
+   "paste_pop": [
+    "a bright magical pop as an object appears out of thin air, a soft shimmering whoosh into a pop",
+    0.7
+   ],
+   "sparkle": [
+    "a short bright magical sparkle twinkle, cartoon",
+    0.8
+   ],
+   "clink": [
+    "a ceramic coffee mug knocked by a hand on a wooden desk, short clink and scrape",
+    0.7
+   ],
+   "fall_whoosh": [
+    "a small object falling fast through the air, short soft whoosh",
+    0.6
+   ],
+   "shades": [
+    "cool sunglasses sliding on with a swoosh and a bright metallic glint",
+    0.9
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ],
+   "counter_tick": [
+    "a fast mechanical counter ticking up rapidly, digits rolling over, getting faster",
+    1.6
+   ],
+   "power_hum": [
+    "a deep electrical power grid hum swelling louder, transformers buzzing, rising",
+    3.0
+   ],
+   "drone_hit": [
+    "a dark ominous low drone hit, deep cinematic horror sting",
+    2.6
+   ],
+   "land": [
+    "a heavy body landing flat on a wooden floor, cartoon thud",
+    0.6
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ]
+  },
+  "events": [
+   ["S1", "room_tone", 0.12, "onset", "S7"],
+   ["S2", "glitch", 0.35, "onset", "S3"],
+   ["S2+2", "paste_pop", 0.45],
+   ["S3+4", "clink", 0.35],
+   ["S3+8", "sparkle", 0.3],
+   ["S4+2", "fall_whoosh", 0.3, "peak"],
+   ["S5", "glitch", 0.35, "onset", "S6"],
+   ["S5+2", "paste_pop", 0.45],
+   ["S6+4", "shades", 0.45],
+   ["S6+12", "sparkle", 0.3],
+   ["S7", "roof_wind", 0.16, "onset", "S11"],
+   ["S8", "glitch", 0.35, "onset", "S9"],
+   ["S8+2", "paste_pop", 0.45],
+   ["S9+4", "sparkle", 0.3],
+   ["S10", "title_boom", 0.4, "peak"],
+   ["S11+4", "counter_tick", 0.25, "onset", "S12"],
+   ["S11+12", "power_hum", 0.18, "onset", "S12"],
+   ["S12", "fall_whoosh", 0.4, "peak"],
+   ["S12+4", "glitch", 0.3],
+   ["S13", "land", 0.55],
+   ["S13+2", "drone_hit", 0.55],
+   ["S14", "ding", 0.45],
+   ["S15", "drone_hit", 0.4]
+  ],
+  "music": {
+   "clip": "music",
+   "until": "S11"
+  },
+  "levels": {
+   "sfx_lu": -1.5,
+   "music_lu": -9.5
+  }
+ }
+}

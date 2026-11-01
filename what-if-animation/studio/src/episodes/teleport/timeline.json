@@ -1,0 +1,310 @@
+{
+ "slug": "teleport",
+ "title": "WHAT IF YOU COULD TELEPORT ANYWHERE?",
+ "fps": 30,
+ "total": 640,
+ "segments": [
+  {
+   "shot": "S1",
+   "a": 0,
+   "b": 23,
+   "t0": 0,
+   "t1": 23,
+   "line": "Locked out?"
+  },
+  {
+   "shot": "S2",
+   "a": 23,
+   "b": 46,
+   "t0": 0,
+   "t1": 23,
+   "line": "Blink.",
+   "look": "teleport"
+  },
+  {
+   "shot": "S3",
+   "a": 46,
+   "b": 71,
+   "t0": 0,
+   "t1": 25,
+   "line": "In your room."
+  },
+  {
+   "shot": "S4",
+   "a": 71,
+   "b": 99,
+   "t0": 0,
+   "t1": 28,
+   "line": "Late for class?"
+  },
+  {
+   "shot": "S5",
+   "a": 99,
+   "b": 122,
+   "t0": 0,
+   "t1": 23,
+   "line": "Blink.",
+   "look": "teleport"
+  },
+  {
+   "shot": "S6",
+   "a": 122,
+   "b": 150,
+   "t0": 0,
+   "t1": 28,
+   "line": "In your seat."
+  },
+  {
+   "shot": "S7",
+   "a": 150,
+   "b": 188,
+   "t0": 0,
+   "t1": 38,
+   "line": "Rooftop sunset?"
+  },
+  {
+   "shot": "S8",
+   "a": 188,
+   "b": 206,
+   "t0": 0,
+   "t1": 18,
+   "line": "Blink.",
+   "look": "teleport"
+  },
+  {
+   "shot": "S9",
+   "a": 206,
+   "b": 236,
+   "t0": 0,
+   "t1": 30,
+   "line": "On the edge."
+  },
+  {
+   "shot": "S10",
+   "a": 236,
+   "b": 311,
+   "t0": 0,
+   "t1": 75,
+   "line": "What if you could teleport anywhere you've seen?"
+  },
+  {
+   "shot": "S11",
+   "a": 311,
+   "b": 412,
+   "t0": 0,
+   "t1": 101,
+   "line": "One catch: Earth rotates at a thousand miles an hour."
+  },
+  {
+   "shot": "S12",
+   "a": 412,
+   "b": 473,
+   "t0": 0,
+   "t1": 61,
+   "line": "Teleport between latitudes, and"
+  },
+  {
+   "shot": "S13",
+   "a": 473,
+   "b": 538,
+   "t0": 0,
+   "t1": 65,
+   "line": "you hit the ground at five hundred miles an hour."
+  },
+  {
+   "shot": "S14",
+   "a": 538,
+   "b": 569,
+   "t0": 0,
+   "t1": 31,
+   "line": "That's real."
+  },
+  {
+   "shot": "S15",
+   "a": 569,
+   "b": 640,
+   "t0": 0,
+   "t1": 71,
+   "line": "So which way are you facing?"
+  }
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "key": 10,
+   "len": 23,
+   "first": 0,
+   "line": "Locked out?",
+   "note": "Pip outside door, checking pockets, locked out"
+  },
+  {
+   "id": "S2",
+   "size": "close-up",
+   "key": 8,
+   "len": 23,
+   "first": 23,
+   "line": "Blink.",
+   "note": "Pip blinks, cyan eye glint and teleport flash"
+  },
+  {
+   "id": "S3",
+   "size": "medium",
+   "key": 12,
+   "len": 25,
+   "first": 46,
+   "line": "In your room.",
+   "note": "Pip sitting in desk chair with mug, smug expression"
+  },
+  {
+   "id": "S4",
+   "size": "wide, over-the-shoulder",
+   "key": 10,
+   "len": 28,
+   "first": 71,
+   "line": "Late for class?",
+   "note": "Pip checks watch, late for class"
+  },
+  {
+   "id": "S5",
+   "size": "macro insert",
+   "key": 6,
+   "len": 23,
+   "first": 99,
+   "line": "Blink.",
+   "note": "school desk pencil and notebook, teleport flash ring"
+  },
+  {
+   "id": "S6",
+   "size": "medium",
+   "key": 14,
+   "len": 28,
+   "first": 122,
+   "line": "In your seat.",
+   "note": "Pip seated at school desk, relaxed, shades on"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "key": 16,
+   "len": 38,
+   "first": 150,
+   "line": "Rooftop sunset?",
+   "note": "dusk sunset over city skyline, Pip admiring view"
+  },
+  {
+   "id": "S8",
+   "size": "extreme close-up",
+   "key": 6,
+   "len": 18,
+   "first": 188,
+   "line": "Blink.",
+   "note": "Pip eyes glint cyan as he blinks to jump"
+  },
+  {
+   "id": "S9",
+   "size": "low angle, wide",
+   "key": 18,
+   "len": 30,
+   "first": 206,
+   "line": "On the edge.",
+   "note": "Pip teleported right on the edge of the parapet"
+  },
+  {
+   "id": "S10",
+   "size": "title, wide",
+   "key": 30,
+   "len": 75,
+   "first": 236,
+   "line": "What if you could teleport anywhere you've seen?",
+   "note": "title card WHAT IF YOU COULD TELEPORT ANYWHERE?"
+  },
+  {
+   "id": "S11",
+   "size": "schematic",
+   "key": 35,
+   "len": 101,
+   "first": 311,
+   "line": "One catch: Earth rotates at a thousand miles an hour.",
+   "note": "science beat: rotating Earth with velocity vectors"
+  },
+  {
+   "id": "S12",
+   "size": "low angle, medium",
+   "key": 15,
+   "len": 61,
+   "first": 412,
+   "line": "Teleport between latitudes, and",
+   "note": "the jump: Pip appears mid-air in shock, red alert sky"
+  },
+  {
+   "id": "S13",
+   "size": "floor insert, high speed",
+   "key": 15,
+   "len": 65,
+   "first": 473,
+   "line": "you hit the ground at five hundred miles an hour.",
+   "note": "500 mph relative velocity blast across ground"
+  },
+  {
+   "id": "S14",
+   "size": "macro insert / readout",
+   "key": 14,
+   "len": 31,
+   "first": 538,
+   "line": "That's real.",
+   "note": "readout: DELTA V = 520 MPH. THAT'S REAL."
+  },
+  {
+   "id": "S15",
+   "size": "extreme close-up",
+   "key": 18,
+   "len": 71,
+   "first": 569,
+   "line": "So which way are you facing?",
+   "note": "Pip in shock against red sky, drawstrings whipping, cliffhanger"
+  }
+ ],
+ "fx": [
+  {
+   "kind": "flash",
+   "color": "#22D3EE",
+   "f": 23
+  },
+  {
+   "kind": "flash",
+   "color": "#22D3EE",
+   "f": 99
+  },
+  {
+   "kind": "flash",
+   "color": "#22D3EE",
+   "f": 188
+  },
+  {
+   "kind": "shake",
+   "len": 16,
+   "amp": 2,
+   "f": 412
+  },
+  {
+   "kind": "shake",
+   "len": 16,
+   "amp": 2,
+   "f": 473
+  },
+  {
+   "kind": "flash",
+   "color": "#FFFFFF",
+   "f": 538
+  }
+ ],
+ "audio": {
+  "voiceVol": 0.8,
+  "sfxVol": 0.4198,
+  "musicVol": 0.1211,
+  "voice": "teleport/voice.wav",
+  "sfx": "teleport/sfx.wav",
+  "music": "teleport/music.wav"
+ }
+}

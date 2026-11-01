@@ -1,0 +1,190 @@
+{
+ "id": "TestPipeline",
+ "slug": "test-pipeline",
+ "topic": "Locked out?",
+ "title": [
+  "WHAT IF YOU COULD",
+  "TEST PIPELINE"
+ ],
+ "accent": "PIPELINE",
+ "auto_shots": true,
+ "script": [
+  {
+   "beat": "Beat 1",
+   "text": "Locked out?"
+  },
+  {
+   "beat": "Beat 2",
+   "text": "Blink."
+  },
+  {
+   "beat": "Beat 3",
+   "text": "In your room?"
+  },
+  {
+   "beat": "Beat 4",
+   "text": "Late for class?"
+  },
+  {
+   "beat": "Beat 5",
+   "text": "Blink."
+  },
+  {
+   "beat": "Beat 6",
+   "text": "In your seat?"
+  },
+  {
+   "beat": "Beat 7",
+   "text": "Rooftop sunset?"
+  },
+  {
+   "beat": "Beat 8",
+   "text": "Blink."
+  },
+  {
+   "beat": "Beat 9",
+   "text": "On the edge."
+  },
+  {
+   "beat": "Beat 10",
+   "text": "What if you could teleport anywhere you've seen?"
+  },
+  {
+   "beat": "Beat 11",
+   "text": "One catch."
+  },
+  {
+   "beat": "Beat 12",
+   "text": "Earth rotates at a thousand miles an hour."
+  },
+  {
+   "beat": "Beat 13",
+   "text": "Teleport between latitudes and you hit the ground at 500 miles an"
+  },
+  {
+   "beat": "Beat 14",
+   "text": "hour."
+  },
+  {
+   "beat": "Beat 15",
+   "text": "That's real."
+  },
+  {
+   "beat": "Beat 16",
+   "text": "So, which way are you facing?"
+  }
+ ],
+ "cast": [
+  "pipHood"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "study",
+   "key": 15,
+   "note": "Locked out? Blink. In your room? Late for class?"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "study",
+   "key": 15,
+   "note": "Blink. In your seat? Rooftop sunset? Blink."
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "set": "study",
+   "key": 15,
+   "note": "On the edge. What if you could teleport anywhere you've seen"
+  },
+  {
+   "id": "S4",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "One catch. Earth rotates at a thousand miles an hour."
+  },
+  {
+   "id": "S5",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "Teleport between latitudes and you hit the ground at 500 mil"
+  },
+  {
+   "id": "S6",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "That's real. So, which way are you facing?"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "f:102"
+  },
+  {
+   "shot": "S3",
+   "at": "f:209"
+  },
+  {
+   "shot": "S4",
+   "at": "f:310"
+  },
+  {
+   "shot": "S5",
+   "at": "f:415"
+  },
+  {
+   "shot": "S6",
+   "at": "f:540"
+  }
+ ],
+ "sound": {
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1",
+    "room_tone",
+    0.12,
+    "onset",
+    "f:634"
+   ]
+  ],
+  "music": {
+   "clip": "music"
+  },
+  "levels": {
+   "sfx_lu": -1.5,
+   "music_lu": -9.5
+  }
+ }
+}

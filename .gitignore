@@ -1,0 +1,28 @@
+# Dependencies
+**/node_modules/
+**/.remotion/
+**/.cache/
+
+# Video outputs & temporary chunks (keep storyboard, stills, shotlist, report)
+**/*.mp4
+**/chunks/
+**/concat_chunks.txt
+
+# Python cache & virtualenvs
+**/__pycache__/
+**/*.pyc
+**/.venv/
+**/env/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/

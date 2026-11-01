@@ -1,0 +1,9 @@
+node_modules/
+*.mp4
+chunks/
+concat_chunks.txt
+__pycache__/
+*.pyc
+.env
+.env.*
+what-if-studio/

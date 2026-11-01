@@ -1,0 +1,11 @@
+{
+ "episode": "TestPipeline",
+ "file": "C:\\Users\\Admin\\Downloads\\TEST2\\what-if-animation\\studio\\out\\test-pipeline\\test-pipeline-final.mp4",
+ "seconds": 21.2,
+ "minutes": 0.35,
+ "lufs": -14.3,
+ "true_peak_dbtp": -1.46,
+ "segments": 6,
+ "cuts_per_min": 14.2,
+ "elevenlabs_credits": 0
+}

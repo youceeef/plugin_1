@@ -1,0 +1,604 @@
+{
+ "id": "LucidDreaming",
+ "slug": "lucid-dreaming",
+ "topic": "Imagine going to sleep tonight, and suddenly realizing you're dreaming.",
+ "title": [
+  "WHAT IF YOU COULD",
+  "CONTROL YOUR DREAMS?"
+ ],
+ "accent": "DREAMS",
+ "auto_shots": true,
+ "script": [
+  {
+   "beat": "Beat 1",
+   "text": "Imagine going to sleep tonight, and suddenly realizing you're dreaming."
+  },
+  {
+   "beat": "Beat 2",
+   "text": "And in that moment, you become the director."
+  },
+  {
+   "beat": "Beat 3",
+   "text": "You fly over cities, talk to people who are long gone, and"
+  },
+  {
+   "beat": "Beat 4",
+   "text": "build entire worlds just by thinking of them."
+  },
+  {
+   "beat": "Beat 5",
+   "text": "What if this were possible every single night?"
+  },
+  {
+   "beat": "Beat 6",
+   "text": "It's closer than you think."
+  },
+  {
+   "beat": "Beat 7",
+   "text": "It's called lucid dreaming."
+  },
+  {
+   "beat": "Beat 8",
+   "text": "Knowing you're inside a dream while you're still asleep."
+  },
+  {
+   "beat": "Beat 9",
+   "text": "Studies suggest that more than half of all people have experienced it"
+  },
+  {
+   "beat": "Beat 10",
+   "text": "at least once."
+  },
+  {
+   "beat": "Beat 11",
+   "text": "In normal dreams, the part of your brain responsible for logic is"
+  },
+  {
+   "beat": "Beat 12",
+   "text": "mostly switched off, which is why we accept even the strangest events"
+  },
+  {
+   "beat": "Beat 13",
+   "text": "without question."
+  },
+  {
+   "beat": "Beat 14",
+   "text": "In a lucid dream, that part partially wakes up, and your ability"
+  },
+  {
+   "beat": "Beat 15",
+   "text": "to make choices comes back."
+  },
+  {
+   "beat": "Beat 16",
+   "text": "Now imagine controlling your dreams whenever you want."
+  },
+  {
+   "beat": "Beat 17",
+   "text": "First, nightmares would lose their power."
+  },
+  {
+   "beat": "Beat 18",
+   "text": "Because you could face what scares you, or change the scene completely."
+  },
+  {
+   "beat": "Beat 19",
+   "text": "Second, you could practice your skills."
+  },
+  {
+   "beat": "Beat 20",
+   "text": "A speech in front of a crowd, an athletic move, even playing"
+  },
+  {
+   "beat": "Beat 21",
+   "text": "an instrument."
+  },
+  {
+   "beat": "Beat 22",
+   "text": "Research suggests the brain treats this kind of rehearsal as somewhat real"
+  },
+  {
+   "beat": "Beat 23",
+   "text": "practice."
+  },
+  {
+   "beat": "Beat 24",
+   "text": "And third, you'd have unlimited space for creativity."
+  },
+  {
+   "beat": "Beat 25",
+   "text": "How many artists and writers have drawn their ideas from dreams?"
+  },
+  {
+   "beat": "Beat 26",
+   "text": "Is this just fantasy?"
+  },
+  {
+   "beat": "Beat 27",
+   "text": "In 2021, researchers managed to hold a real conversation with people during"
+  },
+  {
+   "beat": "Beat 28",
+   "text": "their lucid dreams."
+  },
+  {
+   "beat": "Beat 29",
+   "text": "Simple questions were asked, and the sleepers answered with eye movements while"
+  },
+  {
+   "beat": "Beat 30",
+   "text": "still asleep."
+  },
+  {
+   "beat": "Beat 31",
+   "text": "But what if this became a daily habit?"
+  },
+  {
+   "beat": "Beat 32",
+   "text": "This is where the trouble starts."
+  },
+  {
+   "beat": "Beat 33",
+   "text": "Your sleep quality could suffer because your brain would be partially awake"
+  },
+  {
+   "beat": "Beat 34",
+   "text": "instead of fully resting."
+  },
+  {
+   "beat": "Beat 35",
+   "text": "The line between dream and reality could blur, and you might wake"
+  },
+  {
+   "beat": "Beat 36",
+   "text": "up each morning wondering whether last night really happened."
+  },
+  {
+   "beat": "Beat 37",
+   "text": "And you could lose the magic of spontaneous dreams, the ones that"
+  },
+  {
+   "beat": "Beat 38",
+   "text": "surprise you with things you never expected."
+  },
+  {
+   "beat": "Beat 39",
+   "text": "So controlling your dreams could give you a superpower, but it comes"
+  },
+  {
+   "beat": "Beat 40",
+   "text": "at a price."
+  },
+  {
+   "beat": "Beat 41",
+   "text": "The best part is that getting started is simple."
+  },
+  {
+   "beat": "Beat 42",
+   "text": "Keep a dream journal every morning, and during the day, ask yourself,"
+  },
+  {
+   "beat": "Beat 43",
+   "text": "am I dreaming right now?"
+  },
+  {
+   "beat": "Beat 44",
+   "text": "Maybe tonight will be the first night you take hold of your"
+  },
+  {
+   "beat": "Beat 45",
+   "text": "dream."
+  },
+  {
+   "beat": "Beat 46",
+   "text": "If you enjoyed this video, subscribe to the channel and tell us"
+  },
+  {
+   "beat": "Beat 47",
+   "text": "in the comments."
+  },
+  {
+   "beat": "Beat 48",
+   "text": "What would you do if you could control your dream tonight?"
+  }
+ ],
+ "cast": [
+  "pipHood"
+ ],
+ "shots": [
+  {
+   "id": "S1",
+   "size": "wide",
+   "set": "bedroom",
+   "key": 15,
+   "note": "Imagine going to sleep tonight, and suddenly realizing you'r"
+  },
+  {
+   "id": "S2",
+   "size": "medium",
+   "set": "bedroom",
+   "key": 15,
+   "note": "And in that moment, you become the director. You fly over ci"
+  },
+  {
+   "id": "S3",
+   "size": "close",
+   "set": "bedroom",
+   "key": 15,
+   "note": "talk to people who are long gone, and build entire worlds ju"
+  },
+  {
+   "id": "S4",
+   "size": "insert",
+   "set": "bedroom",
+   "key": 15,
+   "note": "of them. What if this were possible every single night?"
+  },
+  {
+   "id": "S5",
+   "size": "ots",
+   "set": "bedroom",
+   "key": 15,
+   "note": "It's closer than you think. It's called lucid dreaming."
+  },
+  {
+   "id": "S6",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "Knowing you're inside a dream while you're still asleep. Stu"
+  },
+  {
+   "id": "S7",
+   "size": "wide",
+   "set": "rooftop",
+   "key": 15,
+   "note": "than half of all people have experienced it at least once."
+  },
+  {
+   "id": "S8",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "In normal dreams, the part of your brain responsible for log"
+  },
+  {
+   "id": "S9",
+   "size": "close",
+   "set": "rooftop",
+   "key": 15,
+   "note": "which is why we accept even the strangest events without que"
+  },
+  {
+   "id": "S10",
+   "size": "insert",
+   "set": "rooftop",
+   "key": 15,
+   "note": "In a lucid dream, that part partially wakes up,"
+  },
+  {
+   "id": "S11",
+   "size": "ots",
+   "set": "rooftop",
+   "key": 15,
+   "note": "and your ability to make choices comes back. Now imagine con"
+  },
+  {
+   "id": "S12",
+   "size": "medium",
+   "set": "rooftop",
+   "key": 15,
+   "note": "you want. First, nightmares would lose their power."
+  },
+  {
+   "id": "S13",
+   "size": "wide",
+   "set": "study",
+   "key": 15,
+   "note": "Because you could face what scares you, or change the scene "
+  },
+  {
+   "id": "S14",
+   "size": "medium",
+   "set": "study",
+   "key": 15,
+   "note": "Second, you could practice your skills. A speech in front of"
+  },
+  {
+   "id": "S15",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "an athletic move, even playing an instrument. Research sugge"
+  },
+  {
+   "id": "S16",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "this kind of rehearsal as somewhat real practice. And third,"
+  },
+  {
+   "id": "S17",
+   "size": "ots",
+   "set": "study",
+   "key": 15,
+   "note": "you'd have unlimited space for creativity. How many artists "
+  },
+  {
+   "id": "S18",
+   "size": "medium",
+   "set": "study",
+   "key": 15,
+   "note": "their ideas from dreams? Is this just fantasy?"
+  },
+  {
+   "id": "S19",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "In 2021, researchers managed to hold a real conversation wit"
+  },
+  {
+   "id": "S20",
+   "size": "medium",
+   "set": "classroom",
+   "key": 15,
+   "note": "people during their lucid dreams. Simple questions were aske"
+  },
+  {
+   "id": "S21",
+   "size": "close",
+   "set": "classroom",
+   "key": 15,
+   "note": "and the sleepers answered with eye movements while still asl"
+  },
+  {
+   "id": "S22",
+   "size": "insert",
+   "set": "classroom",
+   "key": 15,
+   "note": "But what if this became a daily habit? This is where the tro"
+  },
+  {
+   "id": "S23",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "Your sleep quality could suffer because your brain would be "
+  },
+  {
+   "id": "S24",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "The line between dream and reality could blur,"
+  },
+  {
+   "id": "S25",
+   "size": "schematic",
+   "set": "schematic",
+   "key": 15,
+   "note": "and you might wake up each morning wondering whether last ni"
+  },
+  {
+   "id": "S26",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 15,
+   "note": "And you could lose the magic of spontaneous dreams, the ones"
+  },
+  {
+   "id": "S27",
+   "size": "close",
+   "set": "kitchen",
+   "key": 15,
+   "note": "never expected. So controlling your dreams could give you a "
+  },
+  {
+   "id": "S28",
+   "size": "insert",
+   "set": "kitchen",
+   "key": 15,
+   "note": "but it comes at a price. The best part is that getting start"
+  },
+  {
+   "id": "S29",
+   "size": "ots",
+   "set": "kitchen",
+   "key": 15,
+   "note": "Keep a dream journal every morning, and during the day, ask "
+  },
+  {
+   "id": "S30",
+   "size": "medium",
+   "set": "kitchen",
+   "key": 15,
+   "note": "am I dreaming right now? Maybe tonight will be the first nig"
+  },
+  {
+   "id": "S31",
+   "size": "wide",
+   "set": "stairwell",
+   "key": 15,
+   "note": "If you enjoyed this video, subscribe to the channel and tell"
+  },
+  {
+   "id": "S32",
+   "size": "medium",
+   "set": "stairwell",
+   "key": 15,
+   "note": "What would you do if you could control your dream tonight?"
+  }
+ ],
+ "edit": [
+  {
+   "shot": "S1",
+   "at": "f:0"
+  },
+  {
+   "shot": "S2",
+   "at": "f:161"
+  },
+  {
+   "shot": "S3",
+   "at": "f:331"
+  },
+  {
+   "shot": "S4",
+   "at": "f:487"
+  },
+  {
+   "shot": "S5",
+   "at": "f:644"
+  },
+  {
+   "shot": "S6",
+   "at": "f:791"
+  },
+  {
+   "shot": "S7",
+   "at": "f:951"
+  },
+  {
+   "shot": "S8",
+   "at": "f:1079"
+  },
+  {
+   "shot": "S9",
+   "at": "f:1245"
+  },
+  {
+   "shot": "S10",
+   "at": "f:1389"
+  },
+  {
+   "shot": "S11",
+   "at": "f:1494"
+  },
+  {
+   "shot": "S12",
+   "at": "f:1655"
+  },
+  {
+   "shot": "S13",
+   "at": "f:1768"
+  },
+  {
+   "shot": "S14",
+   "at": "f:1937"
+  },
+  {
+   "shot": "S15",
+   "at": "f:2080"
+  },
+  {
+   "shot": "S16",
+   "at": "f:2245"
+  },
+  {
+   "shot": "S17",
+   "at": "f:2399"
+  },
+  {
+   "shot": "S18",
+   "at": "f:2556"
+  },
+  {
+   "shot": "S19",
+   "at": "f:2668"
+  },
+  {
+   "shot": "S20",
+   "at": "f:2832"
+  },
+  {
+   "shot": "S21",
+   "at": "f:2970"
+  },
+  {
+   "shot": "S22",
+   "at": "f:3097"
+  },
+  {
+   "shot": "S23",
+   "at": "f:3266"
+  },
+  {
+   "shot": "S24",
+   "at": "f:3450"
+  },
+  {
+   "shot": "S25",
+   "at": "f:3562"
+  },
+  {
+   "shot": "S26",
+   "at": "f:3696"
+  },
+  {
+   "shot": "S27",
+   "at": "f:3855"
+  },
+  {
+   "shot": "S28",
+   "at": "f:4024"
+  },
+  {
+   "shot": "S29",
+   "at": "f:4190"
+  },
+  {
+   "shot": "S30",
+   "at": "f:4323"
+  },
+  {
+   "shot": "S31",
+   "at": "f:4527"
+  },
+  {
+   "shot": "S32",
+   "at": "f:4667"
+  }
+ ],
+ "sound": {
+  "clips": {
+   "room_tone": [
+    "quiet indoor room tone in the evening, faint distant city hum, no voices",
+    12.5
+   ],
+   "roof_wind": [
+    "a gentle evening breeze on a city rooftop, distant traffic",
+    7.0
+   ],
+   "music": [
+    "playful quirky cartoon background music, pizzicato strings, glockenspiel and soft bass, light and curious, 110 bpm, no vocals",
+    17.0
+   ],
+   "ding": [
+    "a correct answer ding, bright bell chime",
+    0.8
+   ],
+   "title_boom": [
+    "a cinematic whoosh rising into a deep boom impact",
+    1.6
+   ]
+  },
+  "events": [
+   [
+    "S1",
+    "room_tone",
+    0.12,
+    "onset",
+    "f:4754"
+   ]
+  ],
+  "music": {
+   "clip": "music"
+  },
+  "levels": {
+   "sfx_lu": -1.5,
+   "music_lu": -9.5
+  }
+ }
+}
